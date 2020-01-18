@@ -1,0 +1,33 @@
+CSV text has been written to file : Transistor.csv
+
+Library Component Count : 26
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+*MODEL_DARL_NPN     Description
+*MODEL_DARL_PNP     Description
+*MODEL_FOTO_NPN     Description
+*MODEL_NMOS         Description
+*MODEL_NPN          Description
+*MODEL_PMOS         Description
+*MODEL_PNP          Description
+2N7002LT1G          MOSFET N-CH 60V 115MA SOT-23
+AON7242             MOS N CH 40V 50A DFN3.3X3.3EP
+BC32725TA           TRANS PNP 45V 0.8A TO-92
+BC33725TA           TRANS NPN 45V 0.8A TO-92
+BC548CTA            TRANS NPN 30V 0.1A TO-92
+BC817-25LT3G        TRANSISTOR NPN 45V 500MA SOT-23
+BC848A-TP           TRANSISTOR NPN 100MA 30V SOT-23
+BSS127SSN-7         MOSFET N-CH 600V 50MA SC59
+DMG3420U-7          MOSFET N-CH 20V 5.47A SOT23
+DMP510DL-7          MOSFET P-CH 50V 0.18A SOT23
+FDC638APZ           MOSFET P-CH 20V 4.5A SSOT-6
+FDS6990AS           MOSFET 2N-CH 30V 7.5A 8SOIC
+FQD5P20TM           MOSFET P-CH 200V 3.7A DPAK
+IRF640NSTRLPBF      MOSFET N-CH 200V 18A D2PAK
+PMBT3906,215        TRANS PNP SW 200MA 40V SOT23
+SI2301BDS-T1-E3     MOSFET P-CH 20V 2.2A SOT23-3
+SI3429EDV-T1-GE3    MOSFET P-CHAN 20V TSOP6S
+SI7465DP-T1-E3      MOSFET P-CH 60V 3.2A PPAK SO-8
+ZXM61N02FTA         MOSFET N-CH 20V 1.7A SOT23-3

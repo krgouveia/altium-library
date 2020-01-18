@@ -1,0 +1,20 @@
+CSV text has been written to file : Switch.csv
+
+Library Component Count : 13
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+*MODEL_DPDT         Description
+*MODEL_DPST         Description
+*MODEL_SPDT         Description
+*MODEL_SPST         Description
+1-1825027-1         Tactile Switch SPST-NO Side Actuated Through Hole, Right Angle
+1825027-8           Tactile Switch SPST-NO Side Actuated Through Hole, Right Angle
+1825910-7           SWITCH TACTILE SPST-NO 0.05A 24V
+218-6LPST           SWITCH DIP HALF PITCH 6POS
+434123050836        SWITCH TACTILE SPST-NO 0.05A 12V
+ADF04S04            SWITCH DIP SPST FLUSH 4POS SMD
+CL-DA-1CB4-A2T      SWITCH DETECT SPST-NO 0.1A 12V
+PN22SJNA03QE        SWITCH PUSH DPDT 0.2A 30V
+PTS636SM25SMTRLFS   TACT 6.0 X 3.5, 2.5 MM H, 180GF,

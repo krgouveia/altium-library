@@ -1,0 +1,8 @@
+"LIBRARYREFERENCE","FOOTPRINT1","ACTION","CIRCUIT","COMMENT","MANUFACTURER","MOUNT TYPE","SUPPLIER 1","SUPPLIER 2","SUPPLIER 3","SUPPLIER 4","SUPPLIER PART NUMBER 1","SUPPLIER PART NUMBER 2","SUPPLIER PART NUMBER 3","SUPPLIER PART NUMBER 4","VALUE","SHEETPART","DESIGNATOR","DESCRIPTION"
+"*MODEL_SPDT","","*","SPDT","Part Number","*","*","","","","","","","","","*","*","RL?","Description"
+"*MODEL_SPST","","*","SPST","Part Number","*","*","","","","","","","","","*","*","RL?","Description"
+"1461069-5","RELE SPDT","Momentary","SPDT","1461069-5","TE Connectivity Potter & Brumfield Relays","PTH","","","","","","","","","","*","RL?","RELAY GEN PURPOSE SPDT 10A 12V"
+"2961105","2961105","Active","SPDT","2961105","Phoenixcontact","Through Hole","Newark","Allied","Farnell","Digi-Key","89W0410","70207754","2315534","277-2388-ND","","*","RL?","RELAY GEN PURPOSE SPDT 6A 24V"
+"9007-05-00","9000 Series","Momentary","SPST","9007-05-00","Coto Technology","PTH","Mouser","Farnell","Digi-Key","Newark","816-9007-05-00","1081682","306-1062-ND","62K1784","","*","RL?","RELAY REED SPST 500MA 5V"
+"JZ","JZ SERIES","Momentary","SPDT","JZ","Metaltex","PTH","","","","","","","","","","*","RL?","MINI POWER RELAY 12V 250VAC 6A"
+"JZ1RC2","JZ SERIES","Momentary","SPDT","JZ1RC2","Metaltex","PTH","","","","","","","","","","*","RL?","MINI POWER RELAY 12V 250VAC 6A"

@@ -1,0 +1,22 @@
+CSV text has been written to file : Crystal.csv
+
+Library Component Count : 15
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+*MODEL_OSC          Dscription
+*MODEL_XTAL         Description
+*MODEL_XTAL_4PIN    Description
+540DAA156M250BBG    XTAL OSC XO 156.250 MHZ CML
+7A-8.000MAAE-T      CRYSTAL 8MHZ 12PF SMD
+9B-4.000MBBK-B      CRYSTAL 4.0000MHZ 20PF T/H
+ABLS-4.000MHZ-B4-T  CRYSTAL 4MHZ 18PF SMD
+ABM3-16.000MHZ-D2Y-TCRYSTAL 16.0000MHZ 18PF SMD
+ABS07-120-32.768KHZ-TCRYSTAL 32.768KHZ 6PF SMD
+ECS-250-18-23A-EN-TRCRYSTAL 25MHZ 18PF SMD
+ECS-3X8             CRYSTAL 32.768KHZ 12.5PF CYL
+ECS-80-18-20BQ-DS   8MHz ±30ppm Crystal 18pF 60 Ohm -40°C ~ 125°C AEC-Q200 Surface Mount 4-SMD, No Lead (DFN, LCC)
+FL2500133           CRYSTAL 25MHZ 18PF SMD
+MCSJK-3N-25.00-3.3-50-COscillator, 25 MHz, 50 ppm, SMD, 3.2x 2.5mm
+TSX-3225 20.0000MF20G-AC3CRYSTAL 20.0000MHZ 9PF SMD

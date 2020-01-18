@@ -1,0 +1,6 @@
+"LIBRARYREFERENCE","FOOTPRINT1","CATEGORY","COMMENT","CURRENT","MANUFACTURER","MOUNT TYPE","SUPPLIER 1","SUPPLIER 2","SUPPLIER 3","SUPPLIER 4","SUPPLIER 5","SUPPLIER DESCRIPTION","SUPPLIER PART NUMBER 1","SUPPLIER PART NUMBER 2","SUPPLIER PART NUMBER 3","SUPPLIER PART NUMBER 4","SUPPLIER PART NUMBER 5","VALUE","SHEETPART","DESIGNATOR","DESCRIPTION"
+"*MODEL_DIAC","","DIAC","Part Number","xxA","*","*","","","","","","","","","","","","*","*","TY?","Description"
+"*MODEL_SCR","","SCR","Part Number","xxA","*","*","","","","","","","","","","","","*","*","TY?","Description"
+"*MODEL_TRIAC","","TRIAC","Part Number","xxA","*","*","","","","","","","","","","","","*","*","TY?","Description"
+"BTA41-600BRG","TOP3 MODIFICADO","","BTA41-600BRG","40A","0000014877 -S.T. MICROELECTRONICS I","PTH","Mouser","Farnell","Digi-Key","Arrow","Newark","TRIAC 600V 40A TOP-3","511-BTA41-600B","1057288","497-2431-5-ND","41318216S6878677N7728","89K1245","BTA41","*","TY?","TRIAC 40A 600V TOP3 - ISOLADO"
+"TIC226D-S","TO-220","","TIC226D-S","8A","Bourns Inc.","PTH","Mouser","Newark","Digi-Key","","","","N/A","75K9037","TIC226D-S-ND","","","TIC226D-S","*","TY?","TRIAC 400V 8A TO220"

@@ -1,0 +1,17 @@
+CSV text has been written to file : SOM.csv
+
+Library Component Count : 10
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+ESP8266             WiFi Module
+G24                 MODEM TELIT GSM - CONN RECEPT 70POS 3MM SMD .5MM
+GL865               MODEM TELIT GSM
+GY-521              Accelerometer Gyroscope Module
+JN3.B3A2            IC GPS
+RASPBERRY PI 3 MODEL B40 Position Header Connector 0.100" (2.54mm) Through Hole Gold
+SE3210A00           HID iCLASS SE RFID Reader Module
+TORRE G24           G24 SPACER
+UL865               MODEM TELIT GSM 3G
+VAR_SOM_AM335x      VAR_SOM_AM335x - CONN SKT SODIMM 200POS R/A SMD

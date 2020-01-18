@@ -1,0 +1,20 @@
+CSV text has been written to file : Transformer.csv
+
+Library Component Count : 13
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+*MODEL_TRANS_1+1P_1SDescription
+*MODEL_TRANS_1P_1S  Description
+*MODEL_TRANS_1Px2_2SDescription
+*MODEL_TRANS_2P_1S  Description
+*MODEL_TRANS_2P_2S  Description
+750315039           XFRMR ISOL BUCK DC/DC CONV TH
+750342706           XFRMR ISOL BUCK DC/DC CONV TH
+E-20-10T-V_Model_B  TRANS_5.1V_2.1A_FSQ0365
+E-25-10T-V-Long     TRANS_5.1V_2.1A_12V_250mA_FSQ0365
+E-30-11-11          TRANS_5.1V_2.1A_12V_250mA_FSQ0365
+HX0068ANLT          MODULE 1:1 100D SIN SMD
+PT61018AAPEL-S      PULSE XFMR 1CT:1CT 350UH SMD
+SM13072APEL         LAN 10/100 BASE T XFORMER AECQ +

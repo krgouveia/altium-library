@@ -1,0 +1,19 @@
+CSV text has been written to file : Fuse.csv
+
+Library Component Count : 12
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+*MODEL_FUSE         Description
+0031.3558           FUSE HLDR CARTRIDGE 250V 12A PCB
+0218001.MXEP        FUSE GLASS 1A 250VAC 5X20MM
+0603SFV500F/32-2    FUSE BOARD MOUNT 5A 32VDC 0603
+0ZCF0185FF2C        PTC RESTTBLE 33V 1.85A CHIP 2920
+0ZCH0020FF2E        PTC RESTTBLE 0.20A 30V CHIP 1210
+0ZCJ0020FF2E        PTC RESTTBLE 0.20A 30V CHIP 1206
+1812L110/33MR       PTC RESETTABLE 33V 1.10A 1812L
+1812L150/24MR       PTC RESETTABLE 24V 1.50A 1812L
+F5461TB-ND          FUSE BOARD MOUNT 2A 300VAC RAD
+RGEF300-2           POLYSWITCH PTC RESET 3A HLD T/R
+SSQ 2               FUSE BOARD MNT 2A 125VAC/VDC SMD

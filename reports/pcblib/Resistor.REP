@@ -1,0 +1,33 @@
+PCB Library : Resistor.PcbLib
+Date        : 13-Jan-20
+Time        : 23:03:19
+
+
+
+Component Count : 22
+
+Component Name
+-----------------------------------------------
+
+NTC_5mm
+R0402_HD
+R0402_MD
+R0603_HD
+R0603_MD
+R0805_HD
+R0805_MD
+R1206_HD
+R1206_MD
+R1210_HD
+R1210_MD
+R2010_HD
+R2010_MD
+R2512_HD
+R2512_MD
+RES_AXIAL_0.1_VERT
+RES_AXIAL_0.2_VERT
+RES_AXIAL_0.3
+RES_AXIAL_0.4
+RES_AXIAL_1.2
+RNCP0805FTD1K50
+TRIMPOT MULT VERT

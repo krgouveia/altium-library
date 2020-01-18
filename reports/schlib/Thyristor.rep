@@ -1,0 +1,12 @@
+CSV text has been written to file : Thyristor.csv
+
+Library Component Count : 5
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+*MODEL_DIAC         Description
+*MODEL_SCR          Description
+*MODEL_TRIAC        Description
+BTA41-600BRG        TRIAC 40A 600V TOP3 - ISOLADO
+TIC226D-S           TRIAC 400V 8A TO220

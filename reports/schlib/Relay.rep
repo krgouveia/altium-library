@@ -1,0 +1,14 @@
+CSV text has been written to file : Relay.csv
+
+Library Component Count : 7
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+*MODEL_SPDT         Description
+*MODEL_SPST         Description
+1461069-5           RELAY GEN PURPOSE SPDT 10A 12V
+2961105             RELAY GEN PURPOSE SPDT 6A 24V
+9007-05-00          RELAY REED SPST 500MA 5V
+JZ                  MINI POWER RELAY 12V 250VAC 6A
+JZ1RC2              MINI POWER RELAY 12V 250VAC 6A
