@@ -1,10 +1,10 @@
 PCB Library : Miscellaneous.PcbLib
-Date        : 13-Jan-20
-Time        : 23:03:35
+Date        : 19-Jan-20
+Time        : 15:40:43
 
 
 
-Component Count : 8
+Component Count : 11
 
 Component Name
 -----------------------------------------------
@@ -14,6 +14,9 @@ Fiducial 1.3mm
 Light Pipe 515-1114
 M3 hole
 Solder Jumper
+SpaceLab logo copper
+SpaceLab logo mask
+SpaceLab logo silk
 TEST POINT
 TEST POINT 1x1mm
 TEST POINT PTH
