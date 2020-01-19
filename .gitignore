@@ -1,2 +1,4 @@
 
 *.REPPreview
+lib/History/
+lib/__Previews/
